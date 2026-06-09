@@ -9,9 +9,9 @@
 
 ### 👨‍💻 Về mình
 
-- 🤖 Mình là **Trần Bắc Nam** — đang theo đuổi **AI Engineering**
-- 🔭 Tập trung vào **Computer Vision** (detection, face recognition) và **Web Development**
-- 🌱 Đang tìm hiểu sâu hơn về **MLOps & triển khai model lên production**
+- 🤖 Mình là **Nam** — đang theo đuổi **AI Engineering**
+- 🔭 Tập trung vào các **Giải pháp** tích hợp AI vào cuộc sống.
+- 🌱 Đang tìm hiểu sâu hơn về **LLM, vLLM, RAG, MLOps & triển khai model lên production**,...
 - 💬 Hỏi mình về **Deep Learning, Python, hoặc deploy AI lên VPS**
 - ✍️ Mình viết blog kỹ thuật trên **[Viblo](https://viblo.asia/u/namtran09)**
 - 📫 Liên hệ: **tranbacnam.2412@gmail.com**
@@ -51,7 +51,7 @@
 
 ### 🚀 Một số dự án nổi bật
 
-- 🏨 [**finos_hotel**](https://github.com/Namdevv/finos_hotel) — Ứng dụng web (TypeScript)
+- 🏨 [**finos_hotel**](https://github.com/Namdevv/finos_hotel) — Số hóa sổ sách khách sạn viết tay (ORC) lên website quản lý thu chi.
 - 🔥 [**Web-deploy-series**](https://github.com/Namdevv/Web-deploy-series) — Hướng dẫn đầy đủ cách deploy website & AI model lên VPS với Nginx và HTTPS
 - 🛡️ [**hazardous_detection**](https://github.com/Namdevv/hazardous_detection) — Dự án phát hiện đối tượng nguy hiểm
 - 🌿 [**Leaf-Based Plant Disease Detection**](https://github.com/truong51972/Leaf-Based_Plant_Disease_Detection) — Nhận diện bệnh trên lá cây
