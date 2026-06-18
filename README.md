@@ -51,7 +51,9 @@
 
 ### 🚀 Một số dự án nổi bật
 
+- 🔧 [**claude-mouse-mcp**](https://github.com/Namdevv/claude-mouse-mcp) - MCP server cho phép Claude nhìn màn hình và điều khiển chuột/bàn phím trên máy Windows của bạn. 
 - 🏨 [**finos_hotel**](https://github.com/Namdevv/finos_hotel) — Số hóa sổ sách khách sạn viết tay (ORC) lên website quản lý thu chi.
+- 🦉 [**FocusPals**](https://github.com/Namdevv/FocusPals) - Agent pet pomodoro timer (Đang phát triển)
 - 🔥 [**Web-deploy-series**](https://github.com/Namdevv/Web-deploy-series) — Hướng dẫn đầy đủ cách deploy website & AI model lên VPS với Nginx và HTTPS
 - 🛡️ [**hazardous_detection**](https://github.com/Namdevv/hazardous_detection) — Dự án phát hiện đối tượng nguy hiểm
 - 🌿 [**Leaf-Based Plant Disease Detection**](https://github.com/truong51972/Leaf-Based_Plant_Disease_Detection) — Nhận diện bệnh trên lá cây
